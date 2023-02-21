@@ -1,0 +1,19 @@
+.article-header{
+background-color:  rgb(0, 88, 139);
+color: white;
+text-align: center;
+border: 5px solid transparent;
+}
+
+.sec-one{
+    background-color: rgba(255, 255, 255, 0.73);
+    margin: 30px;
+    
+    
+}
+.add-user-btn{
+    margin-bottom: 5px;
+    float: right;
+    
+}
+
